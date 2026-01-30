@@ -1,0 +1,9 @@
+run_local.bat
+secrets.bat
+.env
+__pycache__/
+*.log
+campaign_log.txt
+groq_usage.json
+sent_log.json
+*.pyc
